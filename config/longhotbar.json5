@@ -1,0 +1,17 @@
+{
+	"modDisabled": false,
+	"disableMod": true,
+	"hotbarMode": "DUAL",
+	"sideGap": -1,
+	"offhandOffset": -30,
+	"longPressDelayMs": 200,
+	"playSwapSound": true,
+	"enableCtrlNumberShortcuts": true,
+	"shortcutModifierKey": "LEFT_CONTROL",
+	"invertSwapBehavior": false,
+	"singleItemSwapMode": false,
+	"swapRow": 3,
+	"reverseSwapRowCycle": false,
+	"longPressOnlySwapMainHand": false,
+	"swapEqualShortLongPress": true
+}

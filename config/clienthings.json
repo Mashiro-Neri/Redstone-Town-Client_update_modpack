@@ -1,0 +1,155 @@
+{
+  "enabled": true,
+  "optout": true,
+  "debug": false,
+  "experimental": false,
+  "defaultPing": 75,
+  "consumables": {
+    "enabled": true,
+    "servers": {
+      "CUSTOM": true,
+      "MODDED": true,
+      "PLUGIN": true,
+      "VANILLA": true
+    },
+    "maxDistance": 2.0
+  },
+  "cooldowns": {
+    "enabled": true,
+    "servers": {
+      "CUSTOM": true,
+      "MODDED": true,
+      "PLUGIN": true,
+      "VANILLA": true
+    }
+  },
+  "crystals": {
+    "enabled": true,
+    "servers": {
+      "CUSTOM": true,
+      "MODDED": true,
+      "PLUGIN": true,
+      "VANILLA": true
+    },
+    "autoAttack": {
+      "enabled": true,
+      "servers": {
+        "CUSTOM": false,
+        "MODDED": true,
+        "PLUGIN": true,
+        "VANILLA": true
+      },
+      "bypassRequiredAiming": {
+        "enabled": true,
+        "servers": {
+          "CUSTOM": false,
+          "MODDED": true,
+          "PLUGIN": false,
+          "VANILLA": true
+        }
+      }
+    },
+    "hasFasterCrystals": {
+      "enabled": true,
+      "servers": {
+        "CUSTOM": true,
+        "MODDED": false,
+        "PLUGIN": false,
+        "VANILLA": false
+      }
+    }
+  },
+  "elytras": {
+    "enabled": true,
+    "servers": {
+      "CUSTOM": false,
+      "MODDED": true,
+      "PLUGIN": true,
+      "VANILLA": true
+    }
+  },
+  "firework": {
+    "enabled": true,
+    "servers": {
+      "CUSTOM": true,
+      "MODDED": true,
+      "PLUGIN": true,
+      "VANILLA": true
+    },
+    "maxDistance": 3.0
+  },
+  "jukebox": {
+    "enabled": false,
+    "servers": {
+      "CUSTOM": true,
+      "MODDED": true,
+      "PLUGIN": true,
+      "VANILLA": true
+    }
+  },
+  "minecart": {
+    "enabled": true,
+    "servers": {
+      "CUSTOM": true,
+      "MODDED": true,
+      "PLUGIN": true,
+      "VANILLA": true
+    }
+  },
+  "pose": {
+    "enabled": true,
+    "servers": {
+      "CUSTOM": true,
+      "MODDED": true,
+      "PLUGIN": true,
+      "VANILLA": true
+    }
+  },
+  "swap": {
+    "enabled": true,
+    "servers": {
+      "CUSTOM": true,
+      "MODDED": true,
+      "PLUGIN": true,
+      "VANILLA": true
+    }
+  },
+  "weapons": {
+    "enabled": true,
+    "servers": {
+      "CUSTOM": true,
+      "MODDED": true,
+      "PLUGIN": true,
+      "VANILLA": true
+    },
+    "crossbow": {
+      "enabled": true,
+      "servers": {
+        "CUSTOM": true,
+        "MODDED": true,
+        "PLUGIN": true,
+        "VANILLA": true
+      }
+    },
+    "trident": {
+      "enabled": true,
+      "servers": {
+        "CUSTOM": true,
+        "MODDED": true,
+        "PLUGIN": true,
+        "VANILLA": true
+      },
+      "maxDistance": 3.0
+    }
+  },
+  "windcharge": {
+    "enabled": true,
+    "servers": {
+      "CUSTOM": true,
+      "MODDED": true,
+      "PLUGIN": true,
+      "VANILLA": true
+    },
+    "maxDistance": 3.0
+  }
+}

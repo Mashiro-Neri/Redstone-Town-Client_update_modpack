@@ -1,0 +1,28 @@
+{
+  "config_version": 4,
+  "loadbuiltin": true,
+  "quark": false,
+  "perspective": true,
+  "default3rdPersonFront": false,
+  "alwaysOpenScreen": false,
+  "validate": false,
+  "validationThreshold": 8.0,
+  "emotesFolderOnLogicalServer": false,
+  "emotesDirectory": "emotes",
+  "checkPose": true,
+  "alwaysValidateEmote": false,
+  "playersafety": true,
+  "stopthreshold": 0.04,
+  "yratio": 0.75,
+  "showHiddenConfig": true,
+  "oldChooseWheel": false,
+  "showIconsIfPossible": false,
+  "fastmenu": {
+    "0": {
+      "0": "d0087583-0000-0000-0000-000000000000",
+      "1": "1f9e3ab9-2daf-41a6-8f91-0108b7db673e",
+      "2": "073efaa6-9991-4f19-868d-bda675c319fe"
+    }
+  },
+  "keys": {}
+}
